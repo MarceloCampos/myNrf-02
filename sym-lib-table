@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Pinewoods_IoT1-rescue)(type Legacy)(uri C:/!WorksHome/Kicad_Projetos/Pinewoods_IoT1/Pinewoods_IoT1-rescue.lib)(options "")(descr ""))
+  (lib (name nRF24L01_Arduino-rescue)(type Legacy)(uri C:/!WorksHome/Kicad_Projetos/nRF24L01_Arduino/nRF24L01_Arduino-rescue.lib)(options "")(descr ""))
+  (lib (name Sensor_Temperature)(type Legacy)(uri C:/KiCad5.16/share/kicad/library/Sensor_Temperature.lib)(options "")(descr ""))
+)
